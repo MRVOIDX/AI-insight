@@ -1,7 +1,7 @@
 # 🤖 AI Insight
 
 <p align="center">
-  <img src="./Dashboard.png" alt="AI INSIGHT" width="180"/>
+  <img src="./Dashboard.png" alt="AI INSIGHT"/>
 </p>
 
 <p align="center">
