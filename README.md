@@ -1,7 +1,7 @@
 # 🤖 AI Insight
 
 <p align="center">
-  <img src="./dashboard.png" alt="AI INSIGHT" width="180"/>
+  <img src="./Dashboard.png" alt="AI INSIGHT" width="180"/>
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ This project keeps your docs always up to date, provides intelligent insights, a
 
 Here’s a quick preview of the project’s dashboard:  
 
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](./Dashboard.png)
 
 ---
 
